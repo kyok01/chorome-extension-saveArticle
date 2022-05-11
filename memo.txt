@@ -1,0 +1,4 @@
+chrome-extension://npmcebpgobmkmfdkohhldaiioaglppco/article-list.html
+
+chrome.storage.local.get(null, function(result){console.log(result)});
+
